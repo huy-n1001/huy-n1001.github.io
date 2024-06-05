@@ -11018,6 +11018,7 @@ html {
   display: block;
   max-width: 25rem;
   border-radius: 0.5rem;
+  padding-top: 0.25rem;
   overflow: hidden;
 }
 .portfolio .portfolio-item .portfolio-item-caption {
@@ -11050,10 +11051,9 @@ html {
   border-radius: 5px;
   padding: 10px;
   margin-top: 10px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-  width: 415px; /* Fixed width */
-  height: 160px; /* Fixed height */
+
   overflow: auto; /* Optional: Adds a scrollbar if content overflows */
 }
 
