@@ -73,7 +73,7 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #fff;
+  --bs-link-color: #eddd61;
   --bs-link-hover-color: #000000;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
@@ -8040,7 +8040,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #fff !important;
+  color: #eddd61 !important;
 }
 
 .text-secondary {
@@ -11040,7 +11040,7 @@ html {
   font-size: 2rem;
   padding: 1rem;
 }
-.portfolio-modal .portfolio-modal-title {
+.portfolio-modal .` {
   font-size: 2.25rem;
   line-height: 2rem;
 }
